@@ -1,6 +1,6 @@
 # 📊 Budget Allocation vs. Expenditure on Healthcare by Indian States (2019–2024)
 
-![Dashboard Preview](tableau.png)
+![Dashboard Preview](tableau.PNG)
 
 ## 🔍 Objective
 This project analyzes how Indian states have utilized centrally released healthcare funds from 2019–20 to 2023–24. It highlights disparities between allocated budgets and actual expenditures to assess efficiency in fund utilization across states.
