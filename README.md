@@ -43,4 +43,4 @@ This project analyzes how Indian states have utilized centrally released healthc
 
 Lehar Arora  
 📧 lehararora666@gmail.com  
-GitHub: [@LeharArora]
+
