@@ -1,0 +1,2 @@
+# Budget-Allocation-Vs.-Expenditure-on-Healthcare-by-Indian-States
+This project analyzes budget allocation vs. actual expenditure on healthcare by Indian states using data from government sources. The goal is to identify patterns in fund utilization, highlight underperforming states, and enable data-driven insights for better policy decisions through interactive data visualizations built in Tableau.
